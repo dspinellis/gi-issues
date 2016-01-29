@@ -1,0 +1,5 @@
+Implement edit command
+
+Possible interface:
+gi edit -c SHA # Edit a comment
+gi edit -i SHA # Edit an issue
