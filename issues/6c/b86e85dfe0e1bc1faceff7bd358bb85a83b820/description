@@ -1,0 +1,5 @@
+Implement attach command
+
+Issues:
+* How do we store the filename?
+* How are attachments extracted from the repo and used?
